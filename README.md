@@ -1,0 +1,2 @@
+# seed-translations
+SEED Translations
