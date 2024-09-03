@@ -891,5 +891,23 @@
     "service_zone_preview": "Aperçu zone de service",
     "add_the_grade": "Ajouter le grade",
     "edit_the_grade": "Modifier le grade",
-    "service_date": "XX-XX-XX à XX:XX:XX"
+    "service_date": "XX-XX-XX à XX:XX:XX",
+
+    "taxi_customer_dead": "Votre client est mort, la mission est annulée",
+    "needs_to_be_in_taxi": "Vous devez être dans un taxi pour chercher une course",
+    "taxi_customer_found": "Vous avez trouvé une course",
+    "taxi_mission_cancelled": "Vous avez informé le client que vous ne pourrez pas être en mesure de le conduire à destination",
+    "taxi_search_customer": "Chercher une course",
+    "taxi_search_cancelled": "Vous avez annulé votre recherche de clients",
+    "taxi_searching_customer": "Vous cherchez une course...",
+    "taxi_odometer": "Taximètre : %.2fkm",
+    "send_bill": "Envoyer une facture",
+    "cancel_mission": "Annuler la mission",
+    "cancel_search": "Annuler la recherche",
+    "taxi_pickup_customer": "~INPUT_CONTEXT~ pour prendre le client",
+    "taxi_customer": "Client Taxi",
+    "taxi_destination": "Destination Taxi",
+    "needs_bank_account_to_be_paid": "Vous devez posséder un compte bancaire pour être payé",
+    "got_paid": "Vous avez été payé %s",
+    "odometer": "Compteur kilométrique"
 }
