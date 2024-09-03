@@ -873,5 +873,23 @@
     "wash_money": "Blanchir",
     "amount_to_declare": "Montant à déclarer",
     "declare_turnover": "Déclarer son chiffre d'affaires",
-    "date": "date"
+    "date": "date",
+
+    "add_grade": "Ajouter un grade",
+    "salary": "Salaire",
+    "duty_time": "Temps de service",
+    "duty_start": "Prise de service",
+    "duty_end": "Fin de service",
+    "employee": "employé",
+    "today": "Aujourd'hui",
+    "this_week": "Cette semaine",
+    "permissions": "Permissions",
+    "service_zone_coords": "Coordonnées zone de service",
+    "set_grade_service_zone_coords": "Définir sur position actuelle",
+    "service_zone_distance": "Distance zone de service",
+    "service_zone_distance_ph": "Distance (0.0 = désactivée)",
+    "service_zone_preview": "Aperçu zone de service",
+    "add_the_grade": "Ajouter le grade",
+    "edit_the_grade": "Modifier le grade",
+    "service_date": "XX-XX-XX à XX:XX:XX"
 }
