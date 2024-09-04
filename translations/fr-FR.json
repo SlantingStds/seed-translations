@@ -926,5 +926,27 @@
     "recipes": "Recettes",
     "cocktails_no_alcohol": "Cocktails sans alcool",
     "cocktails": "Cocktails",
-    "energy_drinks": "Boissons énergisantes"
+    "energy_drinks": "Boissons énergisantes",
+
+    "heading": "orientation",
+    "zoom_out": "Dézoomer",
+    "zoom_in": "Zoomer",
+    "hide_or_show": "Cacher/Afficher",
+    "quit": "quitter",
+    "cannot_delete_camera": "~~r~Erreur~s~: Cette caméra n'est pas la vôtre, vous ne pouvez pas la supprimer",
+    "cameras_limit_reached": "~r~Action impossible~s~ : Votre société a atteint son nombre maximal de caméras actives (%i) !",
+    "bind_key": "Définir une touche (1 à 9)",
+    "invalid_bind_key": "~r~Erreur~s~: Touche invalide, seules les touches du pavé numérique de 1 à 9 sont autorisées",
+    "successful_bind": "~g~Succès~s~: Touche définie",
+    "too_far_from_camera": "~r~Erreur~s~: Vous êtes trop loin de la caméra que vous souhaitez contrôler",
+    "no_close_camera": "~r~Erreur~s~: Aucune caméra n'a été trouvée proche de vous",
+    "now_controlling_cameras": "~g~Succès~s~: Vous contrôlez désormais les caméras",
+    "camera_shortcut": "Raccourci caméra #%i",
+    "delete_camera": "Supprimer la caméra",
+    "bind_cam_key": "Attribuer un raccourci",
+    "news": "Annonce",
+    "journalist_news": "Annonce journaliste",
+    "deploy_camera": "Déployer une caméra",
+    "control_cameras": "Contrôler les caméras",
+    "stopped_controlling_cameras": "~g~Succès~s~: Vous ne contrôlez plus les caméras"
 }
