@@ -909,5 +909,22 @@
     "taxi_destination": "Destination Taxi",
     "needs_bank_account_to_be_paid": "Vous devez posséder un compte bancaire pour être payé",
     "got_paid": "Vous avez été payé %s",
-    "odometer": "Compteur kilométrique"
+    "odometer": "Compteur kilométrique",
+
+    "hands_up_needed_to_search": "Vous ne pouvez fouiller une personne que si elle lève les mains.",
+    "search_player": "fouiller",
+    "fridge": "frigo",
+    "already_making_cocktail": "~r~Action impossible~s~ : Vous êtes déjà en train de fabriquer un %s",
+    "cannot_make_cocktail": "Vous n'avez pas les ingrédients nécessaires pour faire 1x %s.",
+    "made_cocktail": "Vous avez produit ~y~1x~s~ ~b~%s~s~.",
+    "ingredients": "Ingrédients",
+    "press_to_access_bar_menu": "~INPUT_CONTEXT~ pour accéder au menu bar.",
+    "press_to_access_dj_menu": "~INPUT_CONTEXT~ pour accéder aux platines.",
+    "press_to_access_fridge": "~INPUT_CONTEXT~ pour accéder au frigo.",
+    "cook_recipe": "Faire une recette",
+    "recipes_categories": "Catégories de recettes",
+    "recipes": "Recettes",
+    "cocktails_no_alcohol": "Cocktails sans alcool",
+    "cocktails": "Cocktails",
+    "energy_drinks": "Boissons énergisantes"
 }
