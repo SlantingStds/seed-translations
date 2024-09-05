@@ -948,5 +948,14 @@
     "journalist_news": "Annonce journaliste",
     "deploy_camera": "Déployer une caméra",
     "control_cameras": "Contrôler les caméras",
-    "stopped_controlling_cameras": "~g~Succès~s~: Vous ne contrôlez plus les caméras"
+    "stopped_controlling_cameras": "~g~Succès~s~: Vous ne contrôlez plus les caméras",
+
+    "grade_name": "Nom du grade",
+    "society_name": "Nom d'entreprise",
+    "phone_number": "Numéro de téléphone",
+    "logo_link": "Lien du logo",
+    "img_link": "Lien vers une image imgbb.com",
+    "select_player_to_show_visit_card": "Veuillez sélectionner une personne à qui montrer cette carte de visite.",
+    "watch": "regarder",
+    "visit_card": "Carte de visite"
 }
