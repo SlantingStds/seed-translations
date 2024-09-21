@@ -1191,7 +1191,7 @@
     "property_restored": "La destruction de cette propriété a été annulée.",
     "property_not_holded": "Cette propriété est inhabitée.",
     "property_holder_fired": "Vous avez viré le locataire de cette propriété.",
-    "property_holder": "Propriétaire : %s %s",
+    "property_holder": "Propriétaire : %s",
     "property_set_as_rental": "La propriété est désormais ~b~en location.",
     "rental_days_added": "Vous avez prolongé la location pour ~b~%d jours.",
     "property_rental_stopped": "La propriété n'est ~r~plus en location.",
