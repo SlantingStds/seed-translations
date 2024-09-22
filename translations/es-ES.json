@@ -529,7 +529,6 @@
     "vehicle": "Vehículo",
     "available_actions": "Acciones disponibles",
     "no_vehicle": "No tienes ningún vehículo.",
-    "to_store_vehicle": "~INPUT_CONTEXT~ para guardar tu vehículo.",
     "vehicle_not_owned": "Este vehículo ~r~no te pertenece.",
     "no_free_out_spot": "No hay puntos de salida disponibles.",
     "valet": "Valet",

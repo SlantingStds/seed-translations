@@ -526,7 +526,6 @@
     "vehicle": "Véhicule",
     "available_actions": "Actions disponibles",
     "no_vehicle": "Vous n'avez aucun véhicule.",
-    "to_store_vehicle": "~INPUT_CONTEXT~ pour ranger votre véhicule.",
     "vehicle_not_owned": "Ce véhicule ~r~ne vous appartient pas.",
     "no_free_out_spot": "Aucun point de sortie disponible.",
     "valet": "Voiturier",
