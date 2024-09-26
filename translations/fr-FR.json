@@ -2402,10 +2402,10 @@
     "acid_bottle": "bouteille d'acide",
     "acid_launch": "lancer la bouteille d'acide",
     "too_far": "vous êtes trop loin pour faire ça",
-    "repetition_too_fast": "vous ne pouvez pas répeter cette action aussi rapidement",
+    "action_repeated_too_fast": "vous ne pouvez pas répeter cette action aussi rapidement",
     "already_have_brick": "vous avez déjà une brique dans les mains",
-    "distance_mod": "pour passer à distance",
-    "melee_mod": "pour passer en mêlée",
+    "distance_mode": "pour passer à distance",
+    "melee_mode": "pour passer en mêlée",
     "cant_do_action_now": "vous ne pouvez pas réaliser cette action pour le moment",
     "should_have_for_action": "Vous devez posséder %s pour réaliser cette action"
 }
