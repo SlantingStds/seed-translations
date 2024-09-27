@@ -2438,5 +2438,25 @@
     "distance_mode": "pour passer à distance",
     "melee_mode": "pour passer en mêlée",
     "cant_do_action_now": "vous ne pouvez pas réaliser cette action pour le moment",
-    "should_have_for_action": "Vous devez posséder %s pour réaliser cette action"
+    "should_have_for_action": "Vous devez posséder %s pour réaliser cette action",
+	
+	"cv_posted": "Votre curriculum a été envoyé.",
+	"interim": "Intérim",
+	"settings": "Paramètres",
+	"recruitments": "Recrutements",
+	"show_cv_of": "Voir le C.V de",
+	"name_recruitments": "Nom",
+	"subject": "Objet",
+	"view": "Voir",
+	"nothing_cv": "Aucun C.V",
+	"cv_recruitments": "C.V",
+	"resume": "Curriculum Vitae",
+	"contact": "Contacter",
+	"apply": "Postuler",
+	"no_description": "Aucune description",
+	"awaiting_validation": "En attente de validation", 
+	"recruitment_open": "Recrutement ouvert",
+	"recruitment_closed": "Recrutement fermé",
+	"criteria": "Critères",
+	"no_criteria": "Aucun critère défini"
 }
