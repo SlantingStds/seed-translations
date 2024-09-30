@@ -2467,5 +2467,7 @@
     "recruitment_open": "Recrutement ouvert",
     "recruitment_closed": "Recrutement fermé",
     "criteria": "Critères",
-    "no_criteria": "Aucun critère défini"
+    "no_criteria": "Aucun critère défini",
+
+    "casino_already_linked": "Ce casino est déjà lié à une société."
 }
