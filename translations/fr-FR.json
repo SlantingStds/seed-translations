@@ -2475,5 +2475,8 @@
     "add_roommate": "Ajouter un locataire",
     "remove_roommate": "Supprimer un locataire",
     "roommate_added": "Locataire ajoute",
-    "roommate_removed": "Locataire supprimé"
+    "roommate_removed": "Locataire supprimé",
+
+    "respawned_vehicle_too_recently": "Veuillez attendre avant de pouvoir respawn votre véhicule à nouveau.",
+    "vehicle_successfully_respawned": "Véhicule respawn ~g~avec succès."
 }
