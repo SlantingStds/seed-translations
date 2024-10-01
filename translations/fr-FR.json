@@ -2469,5 +2469,11 @@
     "criteria": "Critères",
     "no_criteria": "Aucun critère défini",
 
-    "casino_already_linked": "Ce casino est déjà lié à une société."
+    "casino_already_linked": "Ce casino est déjà lié à une société.",
+
+    "property_roommates_management": "Locataires",
+    "add_roommate": "Ajouter un locataire",
+    "remove_roommate": "Supprimer un locataire",
+    "roommate_added": "Locataire ajoute",
+    "roommate_removed": "Locataire supprimé"
 }
