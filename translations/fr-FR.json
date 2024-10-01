@@ -2478,5 +2478,8 @@
     "roommate_removed": "Locataire supprimé",
 
     "respawned_vehicle_too_recently": "Veuillez attendre avant de pouvoir respawn votre véhicule à nouveau.",
-    "vehicle_successfully_respawned": "Véhicule respawn ~g~avec succès."
+    "vehicle_successfully_respawned": "Véhicule respawn ~g~avec succès.",
+    
+    "error_subject_minlength": "Le sujet doit contenir au moins 3 caractères",
+    "error_resume_minlength": "Le message doit contenir au moins 100 caractères"
 }
