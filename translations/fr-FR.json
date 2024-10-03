@@ -838,6 +838,7 @@
     "closed_f": "fermée",
     "societies_menu": "Menu sociétés",
     "needs_to_be_on_foot": "~r~Action impossible~s~ : Vous devez être à pied",
+    "not_police": "~r~Action impossible~s~ : Vous n'etes pas de la police",
     "wait_before_sending_bill": "Veuillez patienter avant d'envoyer une nouvelle facture.",
     "vehicle_now_out": "Véhicule sorti.",
     "societies": "sociétés",
