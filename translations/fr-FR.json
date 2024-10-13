@@ -2482,5 +2482,17 @@
     "vehicle_successfully_respawned": "Véhicule respawn ~g~avec succès.",
     
     "error_subject_minlength": "Le sujet doit contenir au moins 3 caractères",
-    "error_resume_minlength": "Le message doit contenir au moins 100 caractères"
+    "error_resume_minlength": "Le message doit contenir au moins 100 caractères",
+
+    "press_to_get_material": "~INPUT_CONTEXT~ pour récupérer du matériel.",
+    "already_carrying_material": "Vous portez déjà du matériel.",
+    "material": "Matériel",
+    "available_material": "Matériel disponible",
+    "tray": "plateau",
+    "cup": "récipient",
+    "fill_cup": "Remplir un récipient",
+    "empty_cup": "Récipient ~r~vide",
+    "fill_cup_at_the_machine": "Rendez-vous à ~y~la machine~s~ pour remplir ce récipient.",
+    "cup_filling": "Remplissage ~y~en cours~s~ (%s)",
+    "cup_filled": "Récipient ~g~rempli~s~ (%s)"
 }
