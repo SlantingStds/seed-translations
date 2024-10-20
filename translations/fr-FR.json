@@ -1139,7 +1139,7 @@
     "message": "message",
     "you_are_dead": "Vous êtes dans le coma",
     "open_stock_btn": "Ouvrir coffre",
-    "custom_bill": "Facture personnalisée",
+    "instant_bill": "Facture instantanée",
     "bill_got_paid": "La facture de %s a été payée !",
     "you_paid_bill": "Vous avez payé une facture de %s.",
 
