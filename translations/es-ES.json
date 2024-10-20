@@ -300,7 +300,7 @@
     "impound_successful": "Has enviado el vehículo ~g~al depósito~s~",
     "perms_access_garage": "Acceder al garaje",
     "blue_diamond": "Azul Diamante",
-    "delivery_help_text": "Presiona ~INPUT_CONTEXT~ para acceder a la tienda de entrega.",
+    "access_delivery_shop": "Acceder a la tienda de entrega",
     "zirconium": "Zirconio",
     "licenseid": "ID de Licencia",
     "blue_agathe": "Azul Ágata",
