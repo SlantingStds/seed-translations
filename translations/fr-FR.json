@@ -2514,5 +2514,6 @@
     "add_product": "Ajouter un produit",
     "rate_society": "Noter l'entreprise",
     "already_rated_society": "Vous avez ~r~déjà noté~s~ cette entreprise.",
-    "successfully_rated_society": "Vous avez noté cette entreprise ~g~avec succès."
+    "successfully_rated_society": "Vous avez noté cette entreprise ~g~avec succès.",
+    "open_shop": "Accéder au magasin"
 }
