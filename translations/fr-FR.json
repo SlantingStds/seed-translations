@@ -833,6 +833,7 @@
     "in_duty": "En service",
     "open_society": "Ouvrir l'entreprise",
     "wait_before_opening_society": "Veuillez attendre %u secondes avant de pouvoir ouvrir/fermer la société",
+    "wait_before_sending_announcement": "Veuillez attendre %u secondes avant de pouvoir faire une annonce",
     "society_is_now": "La société est maintenant %s",
     "opened_f": "ouverte",
     "closed_f": "fermée",
