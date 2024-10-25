@@ -528,6 +528,8 @@
 
     "cmd_delete_veh": "Supprimer un véhicule",
     "cmd_delete_veh_radius": "Rayon d'action (si non spécifié suppression du véhicule dans lequel vous êtes)",
+    "cmd_remove_drug_plants": "Supprime toutes les plantations de drogue",
+    "success_remove_all_drug_plants": "%d plantes ont été retirées",
     "cmd_delete_object": "Supprimer un object",
     "cmd_radius": "Rayon d'action (défaut: 10)",
     "cmd_delete_ped": "Supprimer un ped",
