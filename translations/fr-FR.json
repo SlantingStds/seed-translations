@@ -286,7 +286,8 @@
     "army_green": "Vert Army",
     "timeleft": "Temps restant",
     "citrus_green": "Vert Citrus",
-    "distress_send": "appuyez sur [~b~G~s~] ~s~pour envoyer un signal de détresse",
+    "press_respawn": "Réapparaître",
+    "distress_send": "Signal de détresse",
     "lawn_green": "Vert Pelouse",
     "press_to_enter": "appuyez sur ~INPUT_CONTEXT~ pour entrer dans l'instance",
     "search_database_error_not_found": "ce ~y~numéro d'enregistrement~s~ n'est ~r~pas~s~ enregistré sur un véhicule !",
@@ -362,7 +363,6 @@
     "delivery_menu_desc": "Achetez des objets à livrer",
     "alert_ambulance": "alerte Ambulance",
     "revive_inprogress": "réanimation en cours",
-    "press_respawn": "appuyez sur [~b~E~s~] ~s~pour réapparaître.",
     "blond": "Blond",
     "callcenter_menu_title": "Gestion des appels",
     "lightyellow": "Jaune Pâle",
@@ -2546,5 +2546,6 @@
     "garage_building_paid": "La société a payé ~g~%s~s~ pour débuter cette construction.",
     "validate_garage_building": "Valider la construction",
     "teleported_to_garage": "Vous vous êtes téléporté à ~b~l'entrée du garage.",
-    "garage_coords_preview": "Coordonnées aperçu"
+    "garage_coords_preview": "Coordonnées aperçu",
+    "distress_signal_sent": "Signal de détresse envoyé ~g~avec succès."
 }
