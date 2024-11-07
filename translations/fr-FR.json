@@ -2547,5 +2547,9 @@
     "validate_garage_building": "Valider la construction",
     "teleported_to_garage": "Vous vous êtes téléporté à ~b~l'entrée du garage.",
     "garage_coords_preview": "Coordonnées aperçu",
-    "distress_signal_sent": "Signal de détresse envoyé ~g~avec succès."
+    "distress_signal_sent": "Signal de détresse envoyé ~g~avec succès.",
+    "ambulance_interaction": "Interaction Ambulance",
+    "check_death_cause": "Identifier la cause du décès",
+    "checking_cause_of_death": "Vous identifiez la cause du décès ...",
+    "death_cause": "Cause du décès : ~b~%s"
 }
