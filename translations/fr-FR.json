@@ -2551,5 +2551,7 @@
     "ambulance_interaction": "Interaction Ambulance",
     "check_death_cause": "Identifier la cause du décès",
     "checking_cause_of_death": "Vous identifiez la cause du décès ...",
-    "death_cause": "Cause du décès : ~b~%s"
+    "death_cause": "Cause du décès : ~b~%s",
+    "save": "Sauvegarder",
+    "vehicle_saved": "Véhicule ~g~sauvegardé~s~."
 }
