@@ -1335,6 +1335,7 @@
     "repairing_veh": "Réparation du véhicule",
     "repaired_veh": "Vous avez ~g~réparé~s~ le véhicule.",
     "removed_towed_veh": "Faire descendre le véhicule",
+    "livery": "motif",
     "livery_removed": "Vous avez retiré le motif.",
     "vehicle_towed": "Vous avez ~g~remorqué~s~ le véhicule sur la dépanneuse.",
     "vehicle_removed_from_flatbed": "Vous avez ~g~descendu~s~ le véhicule de la dépanneuse.",
