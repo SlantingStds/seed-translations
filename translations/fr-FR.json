@@ -2582,5 +2582,8 @@
     "perm_noclip": "Noclip",
     "perm_revive": "Revive",
     "perm_show_ids": "Afficher les IDs",
-    "perm_heal": "Heal"
+    "perm_heal": "Heal",
+    "warn_ban": "Vous avez été banni pour : %s",
+    "warn_kick": "Vous avez été exclue pour : %s",
+    "warn_alert": "~COLOR_BLUE~Message staff~s~ : %s"
 }
