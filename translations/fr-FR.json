@@ -2571,5 +2571,16 @@
     "perm_manage_reserved_frequencies": "Gérer les fréquences réservées",
     "perm_manage_weather": "Gérer le temps/la météo",
     "perm_manage_farms": "Gérer les farms",
-    "perm_manage_garages": "Gérer les garages"
+    "perm_manage_garages": "Gérer les garages",
+    "perm_manage_entities": "Gérer les entités",
+    "perm_teleport": "Se téléporter",
+    "perm_give_currencies": "Give des currencies",
+    "perm_give_shop_tokens": "Give des tokens boutique",
+    "perm_announce": "Faire des annonces",
+    "perm_manage_reports": "Gérer les reports",
+    "perm_wipe": "Wipe",
+    "perm_noclip": "Noclip",
+    "perm_revive": "Revive",
+    "perm_show_ids": "Afficher les IDs",
+    "perm_heal": "Heal"
 }
