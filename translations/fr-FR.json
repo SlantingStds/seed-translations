@@ -2554,5 +2554,22 @@
     "checking_cause_of_death": "Vous identifiez la cause du décès ...",
     "death_cause": "Cause du décès : ~b~%s",
     "save": "Sauvegarder",
-    "vehicle_saved": "Véhicule ~g~sauvegardé~s~."
+    "vehicle_saved": "Véhicule ~g~sauvegardé~s~.",
+
+    "perm_search_players": "Fouiller les joueurs",
+    "perm_manage_doors": "Gérer les portes",
+    "perm_manage_organizations": "Gérer les organisations",
+    "perm_manage_properties": "Gérer les propriétés",
+    "perm_delete_jobs": "Supprimer les jobs",
+    "perm_manage_jobs": "Gérer les jobs",
+    "perm_manage_phone_content": "Gérer le contenu du téléphone",
+    "perm_kick_properties_members": "Faire sortir les joueurs des propriétés",
+    "perm_delete_properties": "Supprimer les propriétés",
+    "perm_manage_properties_holders": "Gérer les propriétaires des propriétés",
+    "perm_enter_properties": "Entrer dans les propriétés",
+    "perm_get_properties_infos": "Récupérer les informations des propriétés",
+    "perm_manage_reserved_frequencies": "Gérer les fréquences réservées",
+    "perm_manage_weather": "Gérer le temps/la météo",
+    "perm_manage_farms": "Gérer les farms",
+    "perm_manage_garages": "Gérer les garages"
 }
