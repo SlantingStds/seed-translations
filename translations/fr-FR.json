@@ -1434,7 +1434,7 @@
     "assign_property": "Attribuer la propriété",
     "player_id": "ID du joueur",
     "property_assigned": "Propriété attribuée",
-    "property_kick_all": "Vider la propriété",
+    "property_kick_all": "Faire sortir les joueurs",
     "property_kicked_all": "Tous les habitants ont été expulsés",
     "kick_holder": "Virer le propriétaire",
     "holder_kicked": "Le propriétaire a été expulsé",
