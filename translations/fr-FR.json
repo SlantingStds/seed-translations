@@ -2583,5 +2583,8 @@
     "perm_show_ids": "Afficher les IDs",
     "perm_heal": "Heal",
     "warn_kick": "Vous avez été exclue pour : %s.",
-    "warn_alert_title": "Vous avez reçu un avertissement de %s."
+    "warn_alert_title": "Vous avez reçu un avertissement de %s.",
+    "perm_guardian_bypass": "Bypass guardian",
+    "perm_bypass_staff_mode": "Bypass staff mode",
+    "perm_give_mystery_cases": "Give caisses mystères"
 }
