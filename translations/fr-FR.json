@@ -17,7 +17,6 @@
     "vehicle_out": "il y a déjà un véhicule de sorti",
     "you_refused_call_job": "Vous avez refusé l'appel du n° %s",
     "citizen_menu_give_weapon_license": "Donner une license pour arme",
-    "map_blip": "Commissariat",
     "player_not_unconscious": "Cette personne n'est pas inconsciente",
     "error_no_society_money": "Votre société n'a pas assez d'argent",
     "box": "caisse",
@@ -2583,7 +2582,6 @@
     "perm_revive": "Revive",
     "perm_show_ids": "Afficher les IDs",
     "perm_heal": "Heal",
-    "warn_ban": "Vous avez été banni pour : %s",
-    "warn_kick": "Vous avez été exclue pour : %s",
-    "warn_alert": "~COLOR_BLUE~Message staff~s~ : %s"
+    "warn_kick": "Vous avez été exclue pour : %s.",
+    "warn_alert_title": "Vous avez reçu un avertissement de %s."
 }
