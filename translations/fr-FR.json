@@ -2612,5 +2612,14 @@
     "perm_access_admin_menu": "Accéder au menu staff",
     "check_all": "Tout cocher",
     "uncheck_all": "Tout décocher",
-    "perm_manage_roles": "Gérer les rôles"
+    "perm_manage_roles": "Gérer les rôles",
+    "perm_manage_players_warns": "Gérer les sanctions des joueurs",
+    "perm_manage_server_warns": "Gérer les sanctions du serveur",
+    "perm_remove_properties_drug_plants": "Supprimer toutes les plantations de drogues des propriétés",
+    "perm_manage_phone_accounts": "Gérer les comptes des réseaux sociaux",
+    "perm_manage_illegal_events": "Gérer les évènements illégaux",
+    "perm_activate_admin_tag": "Activer un tag admin au dessus de sa tête",
+    "perm_set_bag_weight": "Définir le poids bonus du sac à dos équipé",
+    "perm_unjail": "Faire sortir un joueur de prison",
+    "perm_block_fire": "Bloquer le feu"
 }
