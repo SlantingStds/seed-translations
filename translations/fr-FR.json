@@ -2695,5 +2695,6 @@
     "dj_setting_sound": "Paramètres du son",
     "boombox": "Boombox",
     "boombox_play": "Jouer une musique",
-    "boombox_take": "Ranger"
+    "boombox_take": "Ranger",
+    "too_much_boomboxs": "Vous avez ~r~atteint la limite~s~ de boombox"
 }
