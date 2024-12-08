@@ -2644,5 +2644,8 @@
     "dj_option": "Options",
     "dj_new_sound": "Nouveau son",
     "dj_music": "Musiques",
-    "dj_setting_sound": "Paramètres du son"
+    "dj_setting_sound": "Paramètres du son",
+    "boombox": "Boombox",
+    "boombox_play": "Jouer une musique",
+    "boombox_take": "Ranger"
 }
