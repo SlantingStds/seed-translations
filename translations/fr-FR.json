@@ -146,6 +146,7 @@
     "carbon": "carbon",
     "not_enough_society": "Vous n'avez ~r~pas assez~s~ d'argent sur la société.",
     "store_vehicle": "Ranger le véhicule",
+    "store_vehicle_with_control": "~INPUT_CONTEXT~ pour ranger le véhicule",
     "access_moneywash": "Accéder au ~r~blanchisseur~s~.",
     "horizon_blue": "bleu horizon",
     "no_vehicles_in_front": "aucun véhicule en face",
