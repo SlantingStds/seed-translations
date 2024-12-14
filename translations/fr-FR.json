@@ -280,6 +280,8 @@
     "no_players_nearby": "aucun joueur à proximité",
     "citizen_menu_small_injuries": "Soigner petites blessures",
     "perms_access_items": "Accéder aux objets",
+    "perms_manage_vehicles": "Gérer les véhicules",
+    "perms_manage_properties": "Gérer les propriétés",
     "dolomite": "dolomite",
     "player_not_injured": "Cette personne n'est pas blessée",
     "callcenter_menu": "Centre des appels",
