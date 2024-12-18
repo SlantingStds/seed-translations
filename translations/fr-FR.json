@@ -1480,6 +1480,7 @@
     "lock_not_old_enough_to_force": "La serrure n'est pas assez vieille pour être forcée",
     "you_not_enough_brave_to_do_that": "Vous ne possédez pas le cran nécessaire pour faire ça",
     "hands_are_not_enough_to_break_door": "Vos mains ne suffiront pas pour briser cette porte",
+    "laboratory_already_owned_by_you": "Vous possédez déjà ce laboratoire",
     "leave": "sortir",
     "open_safe": "ouvrir le coffre-fort",
     "change_outfit": "changer de tenue",
