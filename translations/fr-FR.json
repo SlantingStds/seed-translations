@@ -2617,6 +2617,7 @@
 
     "perm_search_players": "Fouiller les joueurs",
     "perm_manage_doors": "Gérer les portes",
+    "perm_manage_saw_event": "Gérer l'événement SAW",
     "perm_delete_organizations": "Supprimer les organisations",
     "perm_manage_organizations": "Gérer les organisations",
     "perm_update_organizations_ip": "Définir les points d'influence des organisations",
