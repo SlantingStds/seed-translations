@@ -132,7 +132,7 @@
     "ticket": "Contravention",
     "green": "vert",
     "invalid_quantity": "quantité invalide",
-    "label_too_long": "Le label est trop long",
+    "name_too_long": "Le nom est trop long",
     "candy": "Framboise",
     "white": "blanc",
     "took_call_job": "%s a pris l'appel du n° %s",
