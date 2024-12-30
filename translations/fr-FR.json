@@ -1458,7 +1458,7 @@
     "tv_not_playing": "La télévision n'est pas en train de diffuser un contenu",
     "paid_to_add_rental_days": "Vous avez payé %s pour prolonger la location pour ~b~%d jours.",
     "property_furnitures_limit_reached": "Vous ne pouvez pas acheter plus de %d meubles.",
-    "property_furnitures_limit_reached_no_vip": "Vous ne pouvez pas acheter plus de %d meubles. Le grade VIP vous permettra d'acheter jusqu'à %d meubles",
+    "property_furnitures_limit_reached_no_vip": "Vous ne pouvez pas acheter plus de %d meubles. Le grade MVP, en boutique, vous permettra d'acheter jusqu'à 140 meubles",
     "no_furnitures_in_basket": "Vous n'avez ~r~pas de meuble dans votre panier.",
     "paid_to_buy_furnitures": "Vous avez payé %s pour acheter %s meuble(s).",
     "furniture_deleted": "Vous avez supprimé le meuble.",
