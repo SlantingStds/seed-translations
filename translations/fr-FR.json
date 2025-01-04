@@ -2726,5 +2726,6 @@
     "boombox": "Boombox",
     "boombox_play": "Jouer une musique",
     "boombox_take": "Ranger",
-    "too_much_boomboxs": "Vous avez ~r~atteint la limite~s~ de boombox"
+    "too_much_boomboxs": "Vous avez ~r~atteint la limite~s~ de boombox",
+    "perm_create_guide_path": "Créer un chemin de guidage"
 }
