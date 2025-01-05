@@ -113,6 +113,7 @@
     "glacier_blue": "bleu glacier",
     "by": "par",
     "no_violent_actions_for_now": "~r~Vous ne pouvez pas faire d'actions violentes pour le moment.~s~",
+    "no_weapon_actions_for_now": "~r~Vous ne pouvez pas utiliser une arme pour le moment.~s~",
     "vehicle_door_button": "Ouvrir/Fermer porte",
     "brick": "Rouge Brique",
     "alabaster": "albâtre",
