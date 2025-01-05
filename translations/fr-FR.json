@@ -2731,5 +2731,6 @@
     "too_much_boomboxs": "Vous avez ~r~atteint la limite~s~ de boombox",
     "perm_create_guide_path": "Créer un chemin de guidage",
     "perm_refresh_outfits": "Rafraîchir les tenues",
-    "succesful_operation": "Opération réussie"
+    "succesful_operation": "Opération réussie",
+    "item_forbidden_in_outfit": "Impossible de mettre en vente \"%s\" ici"
 }
