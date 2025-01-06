@@ -2680,6 +2680,7 @@
     "perm_freeze_players": "Freeze les joueurs",
     "perm_customize_vehicles": "Customiser des véhicules",
     "perm_give_items": "Give des items",
+    "perm_delete_items": "Supprimer des items",
     "perm_give_chameleon_sprays": "Give des peintures caméléons",
     "perm_change_appearance": "Changer son apparence",
     "perm_access_players_list": "Accéder à la liste des joueurs",
