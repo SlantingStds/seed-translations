@@ -2680,6 +2680,7 @@
     "perm_remove_permanent_bills": "Supprimer les factures des joueurs",
     "perm_shadow_trace": "Shadow Trace",
     "perm_freeze_players": "Freeze les joueurs",
+    "perm_open_skin_menu": "Ouvrir le menu skin pour un joueur",
     "perm_customize_vehicles": "Customiser des véhicules",
     "perm_give_items": "Give des items",
     "perm_delete_items": "Supprimer des items",
