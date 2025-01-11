@@ -2738,5 +2738,9 @@
     "succesful_operation": "Opération réussie",
     "item_forbidden_in_outfit": "Impossible de mettre en vente \"%s\" ici",
     "turn_head_left": "Tourner la tête vers la gauche",
-    "turn_head_right": "Tourner la tête vers la droite"
+    "turn_head_right": "Tourner la tête vers la droite",
+    "remove_player_mask": "Retirer le masque",
+    "player_mask_removed": "Masque retiré ~g~avec succès.",
+    "player_not_masked": "L'individu n'est ~r~pas masqué.",
+    "got_unmasked": "Votre masque a été ~r~retiré."
 }
