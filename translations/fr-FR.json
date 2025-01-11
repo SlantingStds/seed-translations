@@ -2736,5 +2736,7 @@
     "perm_create_guide_path": "Créer un chemin de guidage",
     "perm_refresh_outfits": "Rafraîchir les tenues",
     "succesful_operation": "Opération réussie",
-    "item_forbidden_in_outfit": "Impossible de mettre en vente \"%s\" ici"
+    "item_forbidden_in_outfit": "Impossible de mettre en vente \"%s\" ici",
+    "turn_head_left": "Tourner la tête vers la gauche",
+    "turn_head_right": "Tourner la tête vers la droite"
 }
