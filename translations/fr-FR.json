@@ -2668,6 +2668,7 @@
     "perm_invisibility": "Invisibilité",
     "perm_vanish": "Disparition (mode vanish, les staffs ne vous voient plus)",
     "perm_see_vanish_players": "Voir les joueurs disparus (en mode vanish)",
+    "perm_add_character_slot": "Ajouter un slot de personnage",
     "perm_take_player_screenshot": "Prendre un screenshot de joueur",
     "perm_bring_players": "Téléporter des joueurs",
     "perm_send_message_to_players": "Envoyer un message aux joueurs",
