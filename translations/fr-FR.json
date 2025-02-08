@@ -638,7 +638,7 @@
     "customized": "Personnalisé(e)",
     "get_your_old_character_back": "Récupérer votre ancien personnage",
     "old_character_detected": "Notre système a détecté que vous avez déjà joué sur ce serveur. Souhaitez-vous récupérer votre ancien personnage ?",
-    "vip_to_unlock_slot": "Vous devez être VIP pour débloquer cet emplacement.",
+    "rank_to_unlock_slot": "Vous devez être %s pour débloquer cet emplacement.",
     "vip_only_feature": "Cette fonctionnalité est réservée aux %s",
     "unknown": "inconnu",
     "last_character_pos": "Dernier emplacement du personnage",
