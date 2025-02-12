@@ -2711,6 +2711,7 @@
     "perm_unjail": "Faire sortir un joueur de prison",
     "perm_block_fire": "Bloquer le feu",
     "perm_remove_outfit": "Supprimer les tenues",
+    "perm_play_video": "Jouer des vidéos",
     "dj_name_invalid": "Le nom n'est pas valide",
     "dj_not_permission": "Vous n'avez pas accès aux platines",
     "dj_volume_not_valid": "Le volume n'est pas valide",
