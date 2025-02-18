@@ -2713,6 +2713,7 @@
     "perm_block_fire": "Bloquer le feu",
     "perm_remove_outfit": "Supprimer les tenues",
     "perm_play_video": "Jouer des vidéos",
+    "perm_copy_coords": "Copier les coordonnées",
     "dj_name_invalid": "Le nom n'est pas valide",
     "dj_not_permission": "Vous n'avez pas accès aux platines",
     "dj_volume_not_valid": "Le volume n'est pas valide",
