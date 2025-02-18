@@ -2683,6 +2683,8 @@
     "perm_manage_players_societies": "Gérer les sociétés des joueurs",
     "perm_spectate_players": "Spectate des joueurs",
     "perm_spawn_entities": "Spawn des entités",
+    "perm_spawn_particles": "Spawn des particules",
+    "perm_delete_particles_presets": "Supprimer des presets de particules",
     "perm_remove_permanent_bills": "Supprimer les factures des joueurs",
     "perm_shadow_trace": "Shadow Trace",
     "perm_freeze_players": "Freeze les joueurs",
