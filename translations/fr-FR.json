@@ -2701,6 +2701,7 @@
     "perm_see_character_ids": "Accéder aux IDs uniques des personnages",
     "perm_access_server_management_menu": "Accéder au menu de gestion du serveur",
     "perm_access_admin_menu": "Accéder au menu staff",
+    "perm_multipass_doors": "Pouvoir ouvrir toutes les portes",
     "check_all": "Tout cocher",
     "uncheck_all": "Tout décocher",
     "perm_manage_roles": "Gérer les rôles",
