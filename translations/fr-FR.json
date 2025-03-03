@@ -476,6 +476,7 @@
     "gps_interface": "Interface GPS",
     "character_interface": "Interface personnage",
     "streamer_mode": "Mode streamer",
+    "safe_vocal": "Ne pas entendre les nouveaux joueurs",
     "cinematic_interface": "Interface cinématique",
     "blank_shot": "Tir à blanc",
     "blank_shot_activated": "Tir à blanc activé !",
