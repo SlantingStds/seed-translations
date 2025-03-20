@@ -2633,6 +2633,7 @@
     "vehicle_saved": "Véhicule ~g~sauvegardé~s~.",
     "join_cooldown_not_expired": "Cette personne a rejoint un crew récemment. Elle doit attendre avant de pouvoir en rejoindre un nouveau.",
     "cooldown_crew_join": "Nouveau crew rejoint",
+    "already_in_organization": "Cette personne est déjà dans une organisation.",
 
     "perm_search_players": "Fouiller les joueurs",
     "perm_manage_doors": "Gérer les portes",
