@@ -2664,6 +2664,7 @@
     "perm_give_shop_tokens": "Give des tokens boutique",
     "perm_announce": "Faire des annonces",
     "perm_manage_reports": "Gérer les reports",
+    "perm_manage_bans": "Gérer les bans",
     "perm_wipe": "Wipe",
     "perm_noclip": "Noclip",
     "perm_revive": "Revive",
