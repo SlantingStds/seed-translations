@@ -749,6 +749,7 @@
     "deliveryman_vehicle": "Vous devez sortir de votre véhicule pour prendre le colis.",
     "deliveryman_put_in_veh": "Vous avez mis le colis dans votre véhicule.",
     "deliveryman_help": "Vous pouvez prendre un colis dans votre véhicule de service.",
+    "deliveryman_deliver": "Livrer le colis",
 
     "lumberjack": "Bûcheron",
     "lumberjack_desc": "Devenez bucheron(ne) et découpez les plus beaux morceaux de bois.",
