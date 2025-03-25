@@ -2783,5 +2783,6 @@
     "remove_player_mask": "Retirer le masque",
     "player_mask_removed": "Masque retiré ~g~avec succès.",
     "player_not_masked": "L'individu n'est ~r~pas masqué.",
-    "got_unmasked": "Votre masque a été ~r~retiré."
+    "got_unmasked": "Votre masque a été ~r~retiré.",
+    "not_in_crew": "Vous ~r~devez être~s~ dans un crew."
 }
