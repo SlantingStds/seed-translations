@@ -2784,5 +2784,8 @@
     "player_mask_removed": "Masque retiré ~g~avec succès.",
     "player_not_masked": "L'individu n'est ~r~pas masqué.",
     "got_unmasked": "Votre masque a été ~r~retiré.",
-    "not_in_crew": "Vous ~r~devez être~s~ dans un crew."
+    "not_in_crew": "Vous ~r~devez être~s~ dans un crew.",
+    "notifications_center": "Centre de notifications",
+    "notification_activated": "Notification ~g~activée",
+    "notification_deactivated": "Notification ~r~désactivée"
 }
