@@ -2787,5 +2787,6 @@
     "not_in_crew": "Vous ~r~devez être~s~ dans un crew.",
     "notifications_center": "Centre de notifications",
     "notification_activated": "Notification ~g~activée",
-    "notification_deactivated": "Notification ~r~désactivée"
+    "notification_deactivated": "Notification ~r~désactivée",
+    "perm_manage_territories_buyers_npcs": "Gérer les PNJ acheteurs des territoires"
 }
