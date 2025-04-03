@@ -2788,5 +2788,8 @@
     "notifications_center": "Centre de notifications",
     "notification_activated": "Notification ~g~activée",
     "notification_deactivated": "Notification ~r~désactivée",
-    "perm_manage_territories_buyers_npcs": "Gérer les PNJ acheteurs des territoires"
+    "perm_manage_territories_buyers_npcs": "Gérer les PNJ acheteurs des territoires",
+    "copy_player_id": "Copier l'ID du joueur",
+    "copy_driver_id": "Copier l'ID du conducteur",
+    "player_id_copied": "ID du joueur copié ~g~avec succès."
 }
