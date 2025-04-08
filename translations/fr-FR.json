@@ -2795,5 +2795,6 @@
     "perm_reset_crews_territories": "Réinitialiser les territoires de crews",
     "perm_manage_chests": "Gérer les coffres",
     "perm_manage_groceries": "Gérer les supérettes",
-    "perm_manage_crews": "Gérer les crews"
+    "perm_manage_crews": "Gérer les crews",
+    "do_not_have_key": "Vous n'avez pas la clé."
 }
