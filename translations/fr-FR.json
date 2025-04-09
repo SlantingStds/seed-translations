@@ -2796,5 +2796,6 @@
     "perm_manage_chests": "Gérer les coffres",
     "perm_manage_groceries": "Gérer les supérettes",
     "perm_manage_crews": "Gérer les crews",
-    "do_not_have_key": "Vous n'avez pas la clé."
+    "do_not_have_key": "Vous n'avez pas la clé.",
+    "perm_manage_characters_vehicles": "Gérer les véhicules des joueurs"
 }
