@@ -2710,6 +2710,7 @@
     "perm_kick_players": "Kick",
     "perm_ban_players": "Ban",
     "perm_take_reports": "Prendre les reports",
+    "perm_see_online_staffs": "Voir les staffs en ligne",
     "perm_manage_players_societies": "Gérer les sociétés des joueurs",
     "perm_manage_players_ranks": "Gérer les rangs des joueurs",
     "perm_manage_players_cooldowns": "Gérer les cooldowns des joueurs",
