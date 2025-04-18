@@ -2711,6 +2711,7 @@
     "perm_ban_players": "Ban",
     "perm_take_reports": "Prendre les reports",
     "perm_see_online_staffs": "Voir les staffs en ligne",
+    "perm_hide_staff_hud": "Pouvoir masquer le hud staff",
     "perm_manage_players_societies": "Gérer les sociétés des joueurs",
     "perm_manage_players_ranks": "Gérer les rangs des joueurs",
     "perm_manage_players_cooldowns": "Gérer les cooldowns des joueurs",
