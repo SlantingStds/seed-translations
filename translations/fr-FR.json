@@ -2806,5 +2806,6 @@
     "do_not_have_key": "Vous n'avez pas la clé.",
     "perm_manage_characters_vehicles": "Gérer les véhicules des joueurs",
     "perm_consult_characters_vehicles": "Consulter les véhicules des joueurs",
-    "consecutive_victories": "Victoires consécutives"
+    "consecutive_victories": "Victoires consécutives",
+    "perm_manage_safezones": "Gérer les SafeZones"
 }
