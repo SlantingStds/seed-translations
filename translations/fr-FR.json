@@ -2808,5 +2808,6 @@
     "perm_consult_characters_vehicles": "Consulter les véhicules des joueurs",
     "consecutive_victories": "Victoires consécutives",
     "perm_manage_safezones": "Gérer les SafeZones",
-    "vehicle_already_added": "Ce véhicule a ~r~déjà été ajouté."
+    "vehicle_already_added": "Ce véhicule a ~r~déjà été ajouté.",
+    "perm_manage_vehicles": "Gérer les véhicules disponibles en concession"
 }
