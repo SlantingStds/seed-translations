@@ -90,6 +90,7 @@
     "get_item": "prendre un Objet",
     "bandage": "Bandage",
     "error_no_account": "Le joueur n'a pas de compte bancaire",
+    "vehicle_spawn_admin_hint": "Astuce: Maintenir SHIFT à l'appui du bouton va faire apparaître le véhicule sans supprimer celui dans lequel vous êtes",
     "object_spawner": "placer objets",
     "pl_alr_party": "Le joueur est déjà dans une partie",
     "topaz": "topaze",
