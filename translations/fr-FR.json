@@ -1075,6 +1075,8 @@
     "turnovers": "Chiffre d'affaires",
     "driver_license_edited": "Permis modifié ~g~avec succès.",
     "not_enough_perms": "Vous n'avez pas les permissions requises.",
+    "received_temporary_vehicle_keys": "Tu as reçu les clés de ce véhicule.",
+    "already_have_key": "Tu as déjà les clés de ce véhicule.",
     "doc_created": "Document crée ~g~avec succès.",
 
     "bracelet_name": "Nom du bracelet",
