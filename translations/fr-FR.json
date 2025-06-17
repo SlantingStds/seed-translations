@@ -2752,7 +2752,7 @@
     "perm_activate_admin_tag": "Activer un tag admin au dessus de sa tête",
     "perm_set_bag_weight": "Définir le poids bonus du sac à dos équipé",
     "perm_unjail": "Faire sortir un joueur de prison",
-    "perm_block_fire": "Bloquer le feu",
+    "perm_block_fire": "Bloquer le feu / explosion",
     "perm_remove_outfit": "Supprimer les tenues",
     "perm_play_video": "Jouer des vidéos",
     "perm_copy_coords": "Copier les coordonnées",
