@@ -368,6 +368,7 @@
     "refuse_call": "Refuser",
     "accept_call": "Accepter l'appel",
     "bill_amount": "montant de la facture",
+    "bill_product": "produit de la facture",
     "delivery_menu_desc": "Achetez des objets à livrer",
     "alert_ambulance": "alerte Ambulance",
     "revive_inprogress": "réanimation en cours",
