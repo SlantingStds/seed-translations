@@ -764,6 +764,7 @@
     "rental": "Location",
     "vehicles_rental": "Location de véhicules",
     "vehicles_rental_npc": "Loueur de véhicules",
+    "already_rented_vehicle": "Vous avez déjà un véhicule de location.",
 
     "vehicles_pound": "Fourrière",
     "vehicles_pound_npc": "Employé de la fourrière",
