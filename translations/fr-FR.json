@@ -2842,6 +2842,11 @@
 	"drug_cs_accept_5": "On se retrouve comme prévu, je serais sur place %s à %s",
 	"drug_cs_accept_6": "Je suis en route, je reste pas plus de %s sur place à %s",
 
+    "drug_cs_refus_1": "Je m'impatiente, je me casse!",
+    "drug_cs_refus_2": "Tu es où ?! J'attends pas plus",
+    "drug_cs_refus_3": "La prochaine fois arrive à l'heure, je pars",
+    "drug_cs_refus_4": "Dommage..",
+
 	"drug_cs_refus_res_1": "Pas de chance cette fois-ci, on verra la prochaine",
 	"drug_cs_refus_res_2": "Tant pis, je trouverai une autre solution",
 	"drug_cs_refus_res_3": "Dommage",
