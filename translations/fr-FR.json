@@ -421,6 +421,7 @@
     "logout_from_account": "Se déconnecter du compte",
     "online_players": "joueurs en ligne",
     "last_account_login_was": "Dernière connexion: Il y a",
+    "play_time": "Temps de jeu:",
     "nickname_length_needs_to_be": "Votre pseudo doit contenir 3 à 24 caractères !",
     "username_length_needs_to_be": "Votre nom d'utilisateur doit contenir 3 à 16 caractères !",
     "username_cannot_contains": "Votre nom d'utilisateur ne doit pas contenir de caractères spéciaux sauf \"_\" et \".\" !",
