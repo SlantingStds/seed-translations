@@ -2820,5 +2820,8 @@
     "perm_manage_safezones": "Gérer les SafeZones",
     "vehicle_already_added": "Ce véhicule a ~r~déjà été ajouté.",
     "perm_manage_vehicles": "Gérer les véhicules disponibles en concession",
-    "alcohol": "Alcool"
+    "alcohol": "Alcool",
+    "perm_get_drugs_recipes": "Obtenir les recettes des drogues",
+    "perm_set_world": "Changer l'instance d'un joueur",
+    "perm_create_items": "Créer des items"
 }
